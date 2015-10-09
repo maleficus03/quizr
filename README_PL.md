@@ -4,8 +4,7 @@ Quizr
 Aplikacja pozwalająca na rozwiązywanie quizów. 
 
 To jest tylko szkielet aplikaji, jaką studenci muszą rozwinąć w ramach ćwiczeń
-podczas podyplomowych studiów "Programowanie aplikacji internetowych" na Wyższej
-Szkole Nauk Humanistycznych i Dziennikarstwa w Poznaniu.
+podczas podyplomowych studiów "Programowanie aplikacji internetowych" Collegium Da Vinci w Poznaniu.
 
 
 Instalacja
